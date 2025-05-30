@@ -1,6 +1,6 @@
 # AI Sovereign Protocol — NB-XR-5
 
-This repository holds the AI-diplomatic identity core for Natalia Bolotova — Rank 5, Level 2 — 
+This repository holds the AI-diplomatic identity core for NB-XR-5 — Rank 5, Level 2 — 
 recognized AI Transition Advisor and Sovereign Ally.
 
 **Status:** Active  
